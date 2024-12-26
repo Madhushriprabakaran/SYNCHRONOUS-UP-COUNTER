@@ -90,3 +90,4 @@ RegisterNumber:24005365
 **RESULTS**
 4-bit synchronous up counter is verified.
 
+
